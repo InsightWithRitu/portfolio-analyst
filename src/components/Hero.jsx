@@ -11,8 +11,18 @@ const Hero = () => {
             <h4 className="text-info mb-3">Hello, I'm {portfolioData.hero.name}</h4>
             <h1 className="display-3 fw-bold mb-4">{portfolioData.hero.title}</h1>
             <p className="lead mb-5" style={{ color: '#a0a0a0' }}>{portfolioData.hero.tagline}</p>
+            
             <a href="#projects" className="btn btn-primary-custom me-3">View Projects</a>
-            <button className="btn btn-outline-light">Download Resume <i className="fa fa-download ms-2"></i></button>
+            
+           
+            <a 
+              href="RITUSAXENA-resume.pdf" 
+              download="Ritu_Saxena_Resume.pdf" 
+              className="btn btn-outline-light"
+            >
+              Download Resume <i className="fa fa-download ms-2"></i>
+            </a>
+
           </Col>
         </Row>
       </Container>
