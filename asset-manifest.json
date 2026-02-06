@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/InsightWithRitu/portfolio-analyst/static/css/main.9e9368c6.css",
+    "main.js": "/InsightWithRitu/portfolio-analyst/static/js/main.52d2e623.js",
+    "static/media/profile.jpg": "/InsightWithRitu/portfolio-analyst/static/media/profile.60a47ca8d050375fa297.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/InsightWithRitu/portfolio-analyst/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/InsightWithRitu/portfolio-analyst/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/InsightWithRitu/portfolio-analyst/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/InsightWithRitu/portfolio-analyst/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/customer.png": "/InsightWithRitu/portfolio-analyst/static/media/customer.1a4425efab1e72677f88.png",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/InsightWithRitu/portfolio-analyst/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/zepto.png": "/InsightWithRitu/portfolio-analyst/static/media/zepto.e17fd2ae38038c7117e6.png",
+    "index.html": "/InsightWithRitu/portfolio-analyst/index.html",
+    "main.9e9368c6.css.map": "/InsightWithRitu/portfolio-analyst/static/css/main.9e9368c6.css.map",
+    "main.52d2e623.js.map": "/InsightWithRitu/portfolio-analyst/static/js/main.52d2e623.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e9368c6.css",
+    "static/js/main.52d2e623.js"
+  ]
+}
