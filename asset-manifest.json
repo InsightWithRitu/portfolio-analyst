@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-analyst/static/css/main.402d6eaf.css",
-    "main.js": "/portfolio-analyst/static/js/main.a1fc4e7c.js",
+    "main.js": "/portfolio-analyst/static/js/main.94ac519c.js",
     "static/media/profile.jpg": "/portfolio-analyst/static/media/profile.60a47ca8d050375fa297.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/portfolio-analyst/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/portfolio-analyst/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -12,10 +12,10 @@
     "static/media/zepto.png": "/portfolio-analyst/static/media/zepto.e17fd2ae38038c7117e6.png",
     "index.html": "/portfolio-analyst/index.html",
     "main.402d6eaf.css.map": "/portfolio-analyst/static/css/main.402d6eaf.css.map",
-    "main.a1fc4e7c.js.map": "/portfolio-analyst/static/js/main.a1fc4e7c.js.map"
+    "main.94ac519c.js.map": "/portfolio-analyst/static/js/main.94ac519c.js.map"
   },
   "entrypoints": [
     "static/css/main.402d6eaf.css",
-    "static/js/main.a1fc4e7c.js"
+    "static/js/main.94ac519c.js"
   ]
 }
