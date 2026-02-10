@@ -14,7 +14,7 @@ This is my official professional portfolio website built to showcase my Data Ana
 
 ## ✨ Features
 - Fully Responsive (Mobile & Desktop friendly)
-- Clean & Corporate UI (FAANG style design)
+- Clean & Corporate UI 
 - Dedicated sections for **Projects, Skills, and Resume**
 - Interactive Project Cards with "Business Impact" highlights
 
