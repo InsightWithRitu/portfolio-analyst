@@ -6,9 +6,9 @@ export const portfolioData = {
     summary: "Specializing in SQL, Python, and Tableau to uncover trends that drive revenue growth."
   },
   skills: [
-    { category: "Data Analysis", tools: ["SQL (PostgreSQL, MySQL)", "Python (Pandas, NumPy)", "Excel (VLOOKUP, Pivot Tables)"] },
-    { category: "Visualization", tools: ["Tableau", "Power BI", "Matplotlib", "Seaborn"] },
-    { category: "Technical", tools: ["Git/GitHub", "Jupyter Notebooks", "AWS QuickSight"] }
+    { category: "Data Analysis", tools: ["SQL (PostgreSQL, MySQL)", "Python (Basic)", "Excel (VLOOKUP, Pivot Tables)"] },
+    { category: "Visualization", tools: ["Tableau", "Power BI"] },
+    { category: "Technical", tools: ["Git/GitHub", "Jupyter Notebooks","AI Tools", "Notion"] }
   ]
 
 };
