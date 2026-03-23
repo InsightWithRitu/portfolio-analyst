@@ -22,7 +22,6 @@ const Hero = () => {
             >
               Download Resume <i className="fa fa-download ms-2"></i>
             </a>
-
           </Col>
         </Row>
       </Container>
