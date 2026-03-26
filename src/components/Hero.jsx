@@ -16,7 +16,7 @@ const Hero = () => {
             
            
             <a 
-              href="RITUSAXENA-resume.pdf" 
+              href="RituSaxena.pdf" 
               download="Ritu_Saxena_Resume.pdf" 
               className="btn btn-outline-light"
             >
